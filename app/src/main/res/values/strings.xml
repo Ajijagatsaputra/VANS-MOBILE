@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SlicingVans</string>
+    <string name="title">Vans</string>
+    <string name="olshopVans">Vans Old Skool</string>
+    <string name="description">You always get the a fit</string>
+    <string name="size">Size</string>
+    <string name="size1">7</string>
+    <string name="size2">7.5</string>
+    <string name="size3">8</string>
+    <string name="harga">$99</string>
+    <string name="addproduk">Add To Chart</string>
+</resources>
